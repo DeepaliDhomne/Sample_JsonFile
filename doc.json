@@ -1,0 +1,63 @@
+[
+  {
+    "Name": "Azure Virtual Workshop: Internet of Things (IoT) Test",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/01.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/02.md",
+        "Order": 2,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Validations",
+            "UnlockCriteria": "Completion Percentage",
+            "UnlockPercentageThreshold": 50,
+            "DependentValidations": [
+              "b48dcefc-2d7d-45a0-9ca3-acc4d1beab1f",
+              "f6a469f8-c7f2-43ce-a681-9bed10c6a81b"
+            ]
+          },
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "./questions/Page1/question-01.md", "./questions/Page1/question-02.md" ],
+            "UnlockCriteria": "Answered"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/03.md",
+        "Order": 3,
+        "UnlockingRules": [  
+          {
+            "UnlockDependency": "Validations",
+            "UnlockCriteria": "Execution",
+            "DependentValidations": [
+              "3b3094e1-3ca1-4836-850a-96620145cf54",
+              "b32e0b48-21a3-4042-807d-cceb7f1660d8"
+            ]
+          },
+          {
+            "UnlockDependency": "Questions",
+            "DependentQuestions": [ "./questions/Page2/question-01.md", "./questions/Page2/question-02.md" ],
+            "UnlockCriteria": "AnsweredCorrectly"
+          }
+        ]
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/04.md",
+        "Order": 4
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/06.md",
+        "Order": 5
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/07.md",
+        "Order": 6
+      }
+    ]
+  }
+]
