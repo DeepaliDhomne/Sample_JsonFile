@@ -1,0 +1,12 @@
+{
+  "Name": "Azure Virtual Workshop: Internet of Things (IoT) Test",
+  "Language": "Englishty",
+  "Files": [
+    {
+      "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/01.md",
+      "Order": 1,
+      "UnlockingRules": null
+    }
+  ],
+  "ObjectState": 0
+}
