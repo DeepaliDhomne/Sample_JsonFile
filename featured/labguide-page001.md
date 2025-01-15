@@ -1,13 +1,9 @@
-{
-  "Name": "Azure Virtual Workshop: Internet of Things (IoT) Test",
-  "Language": "English",
-  "Files": [
-    {
-      "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/01.md",
-      "Order": 1,
-      "UnlockingRules": null
-    }
-  ],
-  "ObjectState": 0
-}
-Option 1
+This is the first validation and its mandatory to run validation before proceeding to next page.
+
+Please answer the following question
+
+Please answer the following question
+
+This the second validation and its optional for user
+
+Please answer the following question
