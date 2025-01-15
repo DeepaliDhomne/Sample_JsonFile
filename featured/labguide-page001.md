@@ -1,13 +1,13 @@
-MetaData
-Question Type : Single Choice
-
-Question
-You are provided a PowerShell script (ending with. PS1 extension) to provision resources in Azure. You need to run this script to deploy resources in Azure. You have access to a Chromebook with Chrome browser and azure cloud shell.
-
-Does this meet requirement to deploy this to Azure?
-
-Options
-Option 1 : Yes Option 2 : No
-
-Answers
+{
+  "Name": "Azure Virtual Workshop: Internet of Things (IoT) Test",
+  "Language": "English",
+  "Files": [
+    {
+      "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Practice-Test-Sample/main/inline-questions-validation/lab/01.md",
+      "Order": 1,
+      "UnlockingRules": null
+    }
+  ],
+  "ObjectState": 0
+}
 Option 1
