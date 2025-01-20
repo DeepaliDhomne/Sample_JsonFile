@@ -1,2 +1,2 @@
 <question source="ques1" />
-data test[datarender](https://www.youtube.com/watch?v=h6Mh_qHU4rU "datarender")<grouped-questions source="GroupQ-1" />
+data test[datarender](https://www.youtube.com/watch?v=h6Mh_qHU4rU "datarender")<grouped-questions source="GroupQ-1" /><question source="g" /><inline-video source="https://www.youtube.com/embed/h6Mh_qHU4rU" width="auto" height="auto" />
