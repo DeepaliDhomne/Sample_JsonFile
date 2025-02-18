@@ -1,1 +1,1 @@
-darar<question source="ygg" /><question source="info2" />
+darar<question source="ygg" /><question source="info2" /><inject key="azureaduseremail" cloudname="azure" enableCopy="false" enableClickToPaste="false" />
