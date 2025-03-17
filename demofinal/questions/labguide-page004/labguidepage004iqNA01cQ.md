@@ -2,7 +2,7 @@
 Question Type : Single Choice
 
 ## Question
-what is data transferring ??<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fflowers%2F&psig=AOvVaw2fplCXWlI4z4-JPaNasvz5&ust=1742280693164000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDTx8XDkIwDFQAAAAAdAAAAABAE" />
+what is data transferring ??<img src="https://images.pexels.com/photos/931177/pexels-photo-931177.jpeg?auto=compress&cs=tinysrgb&w=600" />
 
 ## Options
 Option 1: f2
