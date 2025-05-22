@@ -1,0 +1,2 @@
+data for page is added 
+![green-photo](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/DeepaliDhomne/Sample_JsonFile/main/foldertitle/images/green-passport_page-0001.jpg?token=8b2t1Sg45N8JBe8QNwBlyhJq)![cool](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/DeepaliDhomne/Sample_JsonFile/main/foldertitle/images/Screenshot_9-8-2024_16483_localhost.jpeg?token=8b2t1Sg45N8JBe8QNwBlyhJq)
