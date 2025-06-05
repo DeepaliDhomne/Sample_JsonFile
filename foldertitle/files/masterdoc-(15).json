@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "deepali-labguideeditor",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/DeepaliDhomne/Sample_JsonFile/main/featured/labguide-page002.md",
+        "Order": 1,
+        "UnlockingRules": []
+      }
+    ]
+  },
+  {
+    "Name": "deepali-labguideeditor",
+    "Language": "Spanish",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/DeepaliDhomne/Sample_JsonFile/main/featured/labguide-page002.md",
+        "Order": 1,
+        "UnlockingRules": []
+      }
+    ]
+  },
+  {
+    "Name": "deepali-labguideeditor",
+    "Language": "French",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/DeepaliDhomne/Sample_JsonFile/main/featured/labguide-page002.md",
+        "Order": 1,
+        "UnlockingRules": []
+      }
+    ]
+  }
+]
